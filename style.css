@@ -12,7 +12,14 @@ footer {
   display: block;
 }
 
-a {
+footer a {
   color: green;
   margin: 10px;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px;
 }
